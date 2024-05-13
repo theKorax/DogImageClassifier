@@ -1,0 +1,3 @@
+The link below is the link to the dog image classifier project stored on my google drive. Check out the link for access to the training and testing data:
+
+https://drive.google.com/drive/folders/1sjOWwcoAC9plh-0IwjR7zBhTGhmasHaP?usp=sharing
